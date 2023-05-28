@@ -1,5 +1,5 @@
 # COMPAS-Algorithm-Evaluation
-## Visual and statistical evaluation of the COMPAS score.
+## Visual and statistical evaluation of the COMPAS algorithm.
 
 1) As part of the module 'Ethical Artificial Intelligence' at the Kiel University of Applied Science we had the task to visualize several distributions of the data used for the compas algorithm and apply a statistical analyses to it.
 2) Compas is a proprietary algorithm/software developed by the company Northpointe used to predict the likelihood of recidivism of criminal defendants. It uses a variety of factors, such as age and criminal history as well as responses to a questionnaire to generate a risk score. However, critics argue that the algorithm is based on biased data and disproportionately labels people of color as high-risk, leading to harsher sentencing and perpetuating systemic racism in the criminal justice system. Despite ongoing debate, Compas continues to be used in many US courts.
